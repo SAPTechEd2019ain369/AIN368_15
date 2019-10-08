@@ -15,6 +15,13 @@
             "url": "https://sapteched2019ain369.github.io/AIN368_15/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
+		},
+		{
+			"kind": "styling",
+			"tag": "com-sap-teched-gauge-15-aps",
+            "url": "https://sapteched2019ain369.github.io/AIN368_15/aps_webcomponent.js",
+			"integrity": "",
+            "ignoreIntegrity" : true
 		}
     ],
 	"properties": {
