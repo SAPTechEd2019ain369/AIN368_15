@@ -12,7 +12,7 @@
 
     d3Script.onload = () =>
 
-    customElements.define('com-sap-teched-gauge-015', class Gauge extends HTMLElement {
+    customElements.define('com-sap-teched-gauge-15', class Gauge extends HTMLElement {
 
 
         disconnectedCallback () {
